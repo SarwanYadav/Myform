@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Android Widgets Day 1</string>
+    <string name="my_form">My Form</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="enter_the_no">Enter the No</string>
+    <string name="male">Male</string>
+    <string name="Female">Female</string>
+    <string name="select_your_intersed_language">Select your Intersed language</string>
+    <string name="android">Android</string>
+    <string name="Java">Java</string>
+    <string name="c">C++</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="find_your_city">Find Your City</string>
+
+
+    <string-array name="cities">
+        <item>Select city </item>
+        <item>Delhi </item>
+        <item>Mohali </item>
+        <item>Chandigarh</item>
+        <item>Kolkata</item>
+        <item>Bihar</item>
+        <item>Patna</item>
+
+
+    </string-array>
+
+
+</resources>
+
+
